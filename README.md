@@ -1,6 +1,6 @@
-# 🚀 careerBoost AI Pro
+# 🚀 ResumeBoost AI Pro
 
-CareerBoost AI Pro is a fully offline, rule-based AI career toolkit built with Python and Streamlit — no paid APIs, no internet required once installed.
+ResumeBoost AI Pro is a fully offline, rule-based AI career toolkit built with Python and Streamlit — no paid APIs, no internet required once installed.
 
 **Tagline:** Land More Interviews. Build a Stronger Career.
 
@@ -27,9 +27,9 @@ CareerBoost AI Pro is a fully offline, rule-based AI career toolkit built with P
 - Regular Expressions
 - Rule-Based NLP
 
-## Why careerBoost AI Pro?
+## Why ResumeBoost AI Pro?
 
-CareerBoost AI Pro helps students and job seekers improve resumes, optimize ATS compatibility, identify suspicious job offers, and prepare for interviews using fast, privacy-friendly local analysis — no internet connection or paid AI subscription required.
+ResumeBoost AI Pro helps students and job seekers improve resumes, optimize ATS compatibility, identify suspicious job offers, and prepare for interviews using fast, privacy-friendly local analysis — no internet connection or paid AI subscription required.
 
 ## Installation
 
