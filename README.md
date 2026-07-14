@@ -1,6 +1,6 @@
 # 🚀 careerBoost AI Pro
 
-ResumeBoost AI Pro is a fully offline, rule-based AI career toolkit built with Python and Streamlit — no paid APIs, no internet required once installed.
+careerBoost AI Pro is a fully offline, rule-based AI career toolkit built with Python and Streamlit — no paid APIs, no internet required once installed.
 
 **Tagline:** Land More Interviews. Build a Stronger Career.
 
